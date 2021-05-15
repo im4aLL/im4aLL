@@ -15,4 +15,7 @@
 ![](https://img.shields.io/badge/-sass-bf4080?style=flat&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/-javascript-f7df1e?style=flat&logo=javascript&logoColor=white)
 
+#### Things I do outside of work
+I watch 📺 &nbsp;shows on Netflix, 🎮 &nbsp;multiplayer online game (PUBG), play around with 🎸 and eat steak! 🥩 
+
 Visit [habibhadi.com](http://habibhadi.com) for more information 👍 
