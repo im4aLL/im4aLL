@@ -15,4 +15,4 @@
 ![](https://img.shields.io/badge/-sass-bf4080?style=flat&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/-javascript-f7df1e?style=flat&logo=javascript&logoColor=white)
 
-Visit [habibhadi.com](http://habibhadi.com) for more information 👍 and for instant message [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-075e54?style=flat&logo=whatsapp&logoColor=white&link=whatsapp://send?abid=+8801619004234&text=hi!)](whatsapp://send?abid=+8801619004234&text=hi!)
+Visit [habibhadi.com](http://habibhadi.com) for more information 👍 
