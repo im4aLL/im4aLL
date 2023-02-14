@@ -9,7 +9,7 @@
 [![Email Badge](https://img.shields.io/badge/-me@habibhadi.com-c14438?style=flat&logo=email&logoColor=white&link=mailto:me@habibhadi.com)](mailto:me@habibhadi.com)
 [![Website Badge](https://img.shields.io/badge/-habibhadi.com-264653?style=flat&logo=Google-Chrome&logoColor=white&link=http://habibhadi.com)](http://habibhadi.com)
 
-#### Working area 🙈
+#### Tech stack 🙈
 ![](https://img.shields.io/badge/-php-8892be?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/-html5-e34f26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-sass-bf4080?style=flat&logo=sass&logoColor=white)
